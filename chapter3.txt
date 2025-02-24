@@ -1,1 +1,1 @@
-this is chapter 3.3 for handling conflict, master
+this is chapter 3, for handling conflict when changes made to master and branch are different
